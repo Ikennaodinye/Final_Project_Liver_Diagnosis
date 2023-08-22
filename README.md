@@ -57,6 +57,10 @@ Gradient Boosting Classifier	79.0%
 Stochastic Gradient Boosting	79.0%
 Decision Tree Classifier	73.7%
 
+
+![Model comparison chart](https://github.com/Ikennaodinye/Final_Project_Liver_Diagnosis/assets/133932487/ba67cb1f-e450-4e3d-a18e-6831a1a6c2f6)
+
+
 ##What Worked: 
 <br>Certain features, such as enzyme(Alkaline Phosphatase & Alanine Aminotransferase), Total Protein and Total Bilirubin levels, showed significant impact on liver disease prediction.
 ##What Didn't: 
