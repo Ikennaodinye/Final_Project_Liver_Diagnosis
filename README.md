@@ -24,8 +24,9 @@ Primary liver cancer (hepatocellular carcinoma) originates in the liver cells an
 <br>Early Detection - Identify features that contribute to early detection of liver disease, enabling timely medical interventions.
 
 <br>Accurate Diagnosis - Develop predictive models to accurately diagnose liver disease based on patient data.
-
 ##Approach:
+
+
 ![Approach 1](https://github.com/Ikennaodinye/Final_Project_Liver_Diagnosis/assets/133932487/8ff79810-5ad8-4ddf-9ace-d4786ecdbf3e)
 
 
