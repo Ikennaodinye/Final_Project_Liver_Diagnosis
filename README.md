@@ -38,6 +38,9 @@ Protein features  - Albumin and Total Proteins; Albumin and Albumin-to-Globulin 
 Enzyme features  - Aspartate Aminotransferase and Alanine Aminotransferase also show a direct relationship.
 Bilirubin features - Direct Bilirubin and Total Bilirubin
 
+![Image IX - DB TB](https://github.com/Ikennaodinye/Final_Project_Liver_Diagnosis/assets/133932487/23f2fbae-bcbb-45da-a629-aa8ff152f19f)
+
+
 ##Machine Learning Model Performance:
 
 <br>Evaluation: We tested multiple models on the dataset for predicting liver disease.
