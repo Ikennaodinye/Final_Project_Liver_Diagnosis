@@ -1,6 +1,6 @@
 # Final_Project_Liver_Diagnosis
-<br>Title: 
-Analysis on Liver Disease Diagnosis and Prediction
+##Title: 
+<br>Analysis on Liver Disease Diagnosis and Prediction
 
 #Background:
 The liver is a vital visceral organ that plays a crucial role in various metabolic processes, including digestion, detoxification, regulation of blood sugar levels, and production of important proteins. Liver diseases can range from mild to life-threatening illnesses. 
