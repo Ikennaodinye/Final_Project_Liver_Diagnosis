@@ -9,6 +9,7 @@ Fatty liver disease – associated with excessive alcohol, diabetes and obesity
 Hepatitis : inflammation caused by viruses 
 Cirrhosis : advanced scarring of the liver tissue caused by long-term damage, often due to chronic alcoholism, viral hepatitis, or other factors
 Primary liver cancer (hepatocellular carcinoma) originates in the liver cells and is often associated with underlying liver disease.
+
 ##Problem Analysis and Motivation:
 <br>Problem: Accurate and early diagnosis of liver disease is critical for effective treatment and patient well-being.
 
@@ -23,7 +24,10 @@ Primary liver cancer (hepatocellular carcinoma) originates in the liver cells an
 <br>Early Detection - Identify features that contribute to early detection of liver disease, enabling timely medical interventions.
 
 <br>Accurate Diagnosis - Develop predictive models to accurately diagnose liver disease based on patient data.
+
 ##Approach:
+![Approach 1](https://github.com/Ikennaodinye/Final_Project_Liver_Diagnosis/assets/133932487/8ff79810-5ad8-4ddf-9ace-d4786ecdbf3e)
+
 
 ##Observations:
 <br>Certain features exhibit direct relationships among themselves, such as:
